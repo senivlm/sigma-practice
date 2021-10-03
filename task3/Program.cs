@@ -6,6 +6,27 @@ namespace sigma_t3
     {
         static void Main(string[] args)
         {
+
+            // ODD-SIZED MAGIC SQUARE GENERATION
+            int size;
+            MagicSquare ms;
+            while (true)
+            {
+                Console.Write("Enter magic square size (odd): ");
+                size = int.Parse(Console.ReadLine());
+                try
+                {
+                    ms = new MagicSquare(size);
+                    Console.WriteLine(ms.ToString());
+                    break;
+                }
+                catch (ArgumentException ae) 
+                {
+                    Console.WriteLine(ae.Message);
+                    continue;
+                }
+            }
+
             // FILE GENERATION
             QuarterReport genQR = QuarterReport.Random(2, 10);
             genQR.ToFile("input.txt");
@@ -16,7 +37,7 @@ namespace sigma_t3
 
             // OWNER WHO DID NOT USE ELICTRICITY
             Flat result = qr.GetEmptyFlat();
-            if(result == null)
+            if (result == null)
                 Console.WriteLine("\nEverybody has been using electricity this quarter.");
             else
                 Console.WriteLine(String.Format("\n{0} from flat #{1} didn't use electricity this quarter.",

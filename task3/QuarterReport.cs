@@ -106,7 +106,7 @@ namespace sigma_t3
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine(String.Format("Report about {0} quarter from {1} flats",
+            sb.AppendLine(String.Format("Report about {0} quarter from {1} flats:",
                 Quarter, Amount));
             for(int i = 0; i < Amount; i++)
             {
