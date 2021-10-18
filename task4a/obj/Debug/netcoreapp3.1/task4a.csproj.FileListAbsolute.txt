@@ -1,0 +1,13 @@
+D:\Projects\vs\sigma\sigma-practice\task4a\bin\Debug\netcoreapp3.1\task4a.exe
+D:\Projects\vs\sigma\sigma-practice\task4a\bin\Debug\netcoreapp3.1\task4a.deps.json
+D:\Projects\vs\sigma\sigma-practice\task4a\bin\Debug\netcoreapp3.1\task4a.runtimeconfig.json
+D:\Projects\vs\sigma\sigma-practice\task4a\bin\Debug\netcoreapp3.1\task4a.runtimeconfig.dev.json
+D:\Projects\vs\sigma\sigma-practice\task4a\bin\Debug\netcoreapp3.1\task4a.dll
+D:\Projects\vs\sigma\sigma-practice\task4a\bin\Debug\netcoreapp3.1\task4a.pdb
+D:\Projects\vs\sigma\sigma-practice\task4a\obj\Debug\netcoreapp3.1\task4a.csprojAssemblyReference.cache
+D:\Projects\vs\sigma\sigma-practice\task4a\obj\Debug\netcoreapp3.1\task4a.AssemblyInfoInputs.cache
+D:\Projects\vs\sigma\sigma-practice\task4a\obj\Debug\netcoreapp3.1\task4a.AssemblyInfo.cs
+D:\Projects\vs\sigma\sigma-practice\task4a\obj\Debug\netcoreapp3.1\task4a.csproj.CoreCompileInputs.cache
+D:\Projects\vs\sigma\sigma-practice\task4a\obj\Debug\netcoreapp3.1\task4a.dll
+D:\Projects\vs\sigma\sigma-practice\task4a\obj\Debug\netcoreapp3.1\task4a.pdb
+D:\Projects\vs\sigma\sigma-practice\task4a\obj\Debug\netcoreapp3.1\task4a.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Projects\vs\sigma\sigma-practice\task3b\bin\Debug\netcoreapp3.1\task3b.exe
+D:\Projects\vs\sigma\sigma-practice\task3b\bin\Debug\netcoreapp3.1\task3b.deps.json
+D:\Projects\vs\sigma\sigma-practice\task3b\bin\Debug\netcoreapp3.1\task3b.runtimeconfig.json
+D:\Projects\vs\sigma\sigma-practice\task3b\bin\Debug\netcoreapp3.1\task3b.runtimeconfig.dev.json
+D:\Projects\vs\sigma\sigma-practice\task3b\bin\Debug\netcoreapp3.1\task3b.dll
+D:\Projects\vs\sigma\sigma-practice\task3b\bin\Debug\netcoreapp3.1\task3b.pdb
+D:\Projects\vs\sigma\sigma-practice\task3b\obj\Debug\netcoreapp3.1\task3b.AssemblyInfoInputs.cache
+D:\Projects\vs\sigma\sigma-practice\task3b\obj\Debug\netcoreapp3.1\task3b.AssemblyInfo.cs
+D:\Projects\vs\sigma\sigma-practice\task3b\obj\Debug\netcoreapp3.1\task3b.csproj.CoreCompileInputs.cache
+D:\Projects\vs\sigma\sigma-practice\task3b\obj\Debug\netcoreapp3.1\task3b.dll
+D:\Projects\vs\sigma\sigma-practice\task3b\obj\Debug\netcoreapp3.1\task3b.pdb
+D:\Projects\vs\sigma\sigma-practice\task3b\obj\Debug\netcoreapp3.1\task3b.genruntimeconfig.cache
