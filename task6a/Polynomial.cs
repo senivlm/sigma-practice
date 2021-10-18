@@ -23,7 +23,7 @@ namespace sigma_t4_b
         }
 
         public Polynomial(params float[] coefficients)
-        {
+        {Можна використовувати вкорочену форму
             this.coefficients = new Dictionary<int, float>();
             for (int i = 0; i < coefficients.Length; i++)
                 this.coefficients.Add(i, coefficients[i]);
@@ -38,7 +38,7 @@ namespace sigma_t4_b
         }
 
         public static Polynomial Parse(string polynomial)
-        {
+        {Тут не всі проблеми враховані
             Polynomial result = new Polynomial();
             bool success = true;
             string[] adds = polynomial.Replace(" - ", " + -").Split(" + ");
@@ -102,7 +102,7 @@ namespace sigma_t4_b
         }
 
         public static Polynomial operator *(Polynomial p1, Polynomial p2)
-        {
+        {Порядок полінома результату дорівнює сумі порядків поліномів множників
             Polynomial result = new Polynomial(p1);
             for (int i = 0; i < p2.Order + 1; i++)
             {
