@@ -10,3 +10,4 @@ D:\Projects\vs\sigma\sigma-practice\task6c\obj\Debug\netcoreapp3.1\task6c.csproj
 D:\Projects\vs\sigma\sigma-practice\task6c\obj\Debug\netcoreapp3.1\task6c.dll
 D:\Projects\vs\sigma\sigma-practice\task6c\obj\Debug\netcoreapp3.1\task6c.pdb
 D:\Projects\vs\sigma\sigma-practice\task6c\obj\Debug\netcoreapp3.1\task6c.genruntimeconfig.cache
+D:\Projects\vs\sigma\sigma-practice\task6c\obj\Debug\netcoreapp3.1\task6c.csprojAssemblyReference.cache
